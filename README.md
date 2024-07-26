@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://komarev.com/ghpvc/?username=t0nyz0
+
 <!--
 **t0nyz0/T0NYZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
