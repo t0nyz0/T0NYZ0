@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently tinkering with [Bambu Conveyor Project](https://github.com/t0nyz0/Bambu-Poop-Conveyor-ESP32)
-
+- [ ] I’m currently tinkering with :arrow_right: [Bambu Conveyor Project](https://github.com/t0nyz0/Bambu-Poop-Conveyor-ESP32)
+- [x] BambuBoard (Dashboard for real time Bambu X1 tracking and OBS support)
 
 
 
