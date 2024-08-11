@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-#### I'm a passionate tinkerer and 3D model designer, dedicated dog dad 🐕 and enthusiastic tennis fan 🎾
+#### I'm a passionate engineer, tinkerer and 3D model designer, dedicated dog dad 🐕 and enthusiastic tennis fan 🎾
 
 
 
