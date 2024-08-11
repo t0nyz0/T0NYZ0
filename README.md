@@ -4,8 +4,9 @@
 
 
 ### 🚀 Current projects:
-- [ ] I'm currently writing ➡️ *How to Build a Modern, Flexible, and Powerful Development Blog in Next.js in Minutes*
+
 - [ ] I’m currently tinkering with ➡️ [Bambu Conveyor Project](https://t0nyz.com/projects/bambuconveyor)
+- [x] I just released ➡️ *[How to Build a Modern, Flexible, and Powerful Development Blog in Next.js in Minutes](https://t0nyz.com/projects/nextjsblog)*
 - [x] ~~[BambuBoard](https://t0nyz.com/projects/bambuboard) (Dashboard for real-time Bambu X1 tracking and OBS support)~~
 
 ### 🔮 Future projects:
