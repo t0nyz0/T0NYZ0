@@ -1,4 +1,3 @@
-# Hi there 👋 
 ![image](https://komarev.com/ghpvc/?username=T0NYZ0&style=flat-square")
 #### I'm a passionate engineer, 3D model designer, dedicated dog dad 🐕, and enthusiastic tennis fan 🎾
 
