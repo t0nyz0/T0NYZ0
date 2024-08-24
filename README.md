@@ -2,7 +2,7 @@
 #### Engineer, 3D model designer, dedicated dog dad 🐕, and enthusiastic tennis fan 🎾
 
 ## 🚀 Current projects
-- [ ] Developing AWS IoT / WLED / bridging example
+- [ ] Developing [AWS IoT / WLED / bridging example](https://t0nyz.com/projects/awsiot)
 
 ## 🗂️ Previous projects
 - [x] I just released ➡️ *[How to Build a Modern, Flexible, and Powerful Development Blog in Next.js in Minutes](https://t0nyz.com/projects/nextjsblog)*
