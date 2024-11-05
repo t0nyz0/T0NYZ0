@@ -2,7 +2,7 @@
 #### Engineer, 3D model designer, dedicated dog dad 🐕, and enthusiastic tennis fan 🎾
 
 ## 🚀 Current projects
-- Focusing on work right now
+- [ ] [bambu-auth](https://github.com/t0nyz0/bambu-auth) (Many applications are built to use the Bambu Labs API. This test harness demonstrates how to verify via verification codes and MFA requests.)
 
 ## 🗂️ Previous projects
 - [x] Developing [AWS IoT / WLED / bridging example](https://t0nyz.com/projects/awsiot)
