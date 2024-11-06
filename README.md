@@ -17,6 +17,6 @@
 
 
 ##
-☕ [Buy me a coffee](buymeacoffee.com/tonyz)
+☕ [Buy me a coffee](https://buymeacoffee.com/tonyz)
 
 💰 Send BTC here: bc1qrehc0cfp66tetnq70a7tf92tfq03f7sxfgsk2u
