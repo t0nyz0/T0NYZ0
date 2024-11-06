@@ -19,4 +19,4 @@
 ##
 ☕ [Buy me a coffee](buymeacoffee.com/tonyz)
 
-BTC donation 💰 bc1qrehc0cfp66tetnq70a7tf92tfq03f7sxfgsk2u
+💰 Send BTC here: bc1qrehc0cfp66tetnq70a7tf92tfq03f7sxfgsk2u
