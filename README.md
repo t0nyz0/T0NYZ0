@@ -1,6 +1,6 @@
 ![image](https://komarev.com/ghpvc/?username=T0NYZ0&style=flat-square")
 
-#### Engineer, 3D model designer, dedicated dog dad 🐕 and enthusiastic tennis fan 🎾
+#### Engineer, 3D model designer, dedicated dog dad 
 
 ## 🚀 2025 Goals
 
