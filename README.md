@@ -8,7 +8,6 @@
 - [x] Redesign [Bambu Conveyor electronics housing (v2)](https://makerworld.com/en/models/1071359#profileId-1061316)
 - [x] Build online ESP32 Flashing utility for Bambu Conveyor [Completed 2/7/25](https://t0nyz.com/flasher/)
 - [x] Integrate an AP wifi mode for easy setup of Bambu Conveyor [Completed 2/7/25]
-- [ ] Improve BambuBoard onboarding documentation
 
 ## 🗂️ Previous projects
 
