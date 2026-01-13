@@ -4,10 +4,12 @@
 
 ## 🚀 2025 Goals
 
-- [x] Upgrade all github project dependecies
-- [x] Redesign [Bambu Conveyor electronics housing (v2)](https://makerworld.com/en/models/1071359#profileId-1061316)
-- [x] Build online ESP32 Flashing utility for Bambu Conveyor [Completed 2/7/25](https://t0nyz.com/flasher/)
-- [x] Integrate an AP wifi mode for easy setup of Bambu Conveyor [Completed 2/7/25]
+🚀 2026 Goals
+
+- [ ] Develop first Apple Vision app
+- [ ] Merge H2D code into the BambuBoard branch. Clean up project.
+- [ ] Improve BambuBoard onboarding documentation
+- [ ] Build an additional mode of operation for Bambu Conveyor
 
 ## 🗂️ Previous projects
 
