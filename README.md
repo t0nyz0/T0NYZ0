@@ -2,9 +2,7 @@
 
 #### Engineer, 3D model designer, dedicated dog dad 
 
-## 🚀 2025 Goals
-
-🚀 2026 Goals
+## 🚀 2026 Goals
 
 - [ ] Develop first Apple Vision app
 - [ ] Merge H2D code into the BambuBoard branch. Clean up project.
