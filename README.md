@@ -4,6 +4,8 @@
 
 ## 🚀 2026 Goals
 
+- [x] Create a crypto app on Base mainnet
+- [x] Build an on-chain game
 - [ ] Develop first Apple Vision app
 - [ ] Merge H2D code into the BambuBoard branch. Clean up project.
 - [ ] Improve BambuBoard onboarding documentation
@@ -11,6 +13,7 @@
 
 ## 🗂️ Previous projects
 
+- [x] [bse.bio - Token-Gated Link-in-Bio Platform](https://t0nyz.com/projects/bsebio) (Base-native mini app with creator coin gating and on-chain game)
 - [x] Developing [AWS IoT / WLED / bridging example](https://t0nyz.com/projects/awsiot)
 - [x] Latest release ➡️ *[How to Build a Modern, Flexible, and Powerful Development Blog in Next.js in Minutes](https://t0nyz.com/projects/nextjsblog)*
 - [x] [Bambu Conveyor Project](https://t0nyz.com/projects/bambuconveyor) (Conveyor system for Bambu X1 3D printer)
@@ -18,7 +21,6 @@
 
 ## 👨🏻‍🔬 3D Model Design
 - [Makerworld](https://makerworld.com/en/@t0nyz)
-
 
 ##
 ☕ [Buy me a coffee](https://buymeacoffee.com/tonyz)
