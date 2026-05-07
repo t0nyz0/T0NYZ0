@@ -6,9 +6,8 @@
 
 - [x] Create a crypto app on Base mainnet
 - [x] Build an on-chain game
-- [ ] Develop first Apple Vision app
-- [ ] Merge H2D code into the BambuBoard branch. Clean up project.
-- [ ] Improve BambuBoard onboarding documentation
+- [x] Merge H2D code into the BambuBoard branch. Clean up project.
+- [x] Improve BambuBoard onboarding documentation
 - [ ] Build an additional mode of operation for Bambu Conveyor
 
 ## 🗂️ Previous projects
