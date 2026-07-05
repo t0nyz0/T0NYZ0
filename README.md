@@ -13,7 +13,7 @@
 
 ## 🗂️ Previous projects
 
-- [x] [SD Offload](https://github.com/t0nyz0/sd-offload) (macOS menu-bar app: verified SD-card → NAS offload with safe auto-wipe, RAW+JPG pairing, and on-device photo search)
+- [x] [SD Offload](https://github.com/t0nyz0/SD-Offload) (macOS menu-bar app: verified SD-card → NAS offload with safe auto-wipe, RAW+JPG pairing, and on-device photo search)
 - [x] [bse.bio - Token-Gated Link-in-Bio Platform](https://t0nyz.com/projects/bsebio) (Base-native mini app with creator coin gating and on-chain game)
 - [x] Developing [AWS IoT / WLED / bridging example](https://t0nyz.com/projects/awsiot)
 - [x] Latest release ➡️ *[How to Build a Modern, Flexible, and Powerful Development Blog in Next.js in Minutes](https://t0nyz.com/projects/nextjsblog)*
